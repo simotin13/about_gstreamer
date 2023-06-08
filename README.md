@@ -17,3 +17,5 @@ meson compile -C builddir
 ## gst-launch
 gstreamer/subprojects/gstreamer/tools
 
+
+gstreamer/tools/gst-launch.c
